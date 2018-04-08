@@ -5,3 +5,4 @@
 ![](https://pp.userapi.com/c830308/v830308852/c7245/4HdTUFp9DVs.jpg)
 ![](https://pp.userapi.com/c845217/v845217081/21e5c/zQM-wqFqCLU.jpg)
 ![](https://pp.userapi.com/c845217/v845217081/21e65/rZfVyfVvUGM.jpg)
+Слово peek не используется с дополнениями в отличие от слова look. На пример, "in what he termed his 'nicely polished looking glass" тут автор использовал слово в значение окна.
